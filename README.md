@@ -3,7 +3,7 @@ Displays all disabled car parking spaces for Brisbane CBD
 
 # Brief
 - Takes disabled parking data from data.gov.au
-- Cleans this data and uses a gmaps api
+- Cleans/prepares this data
 - Displays disabled parking spaces via google maps (uses https://github.com/vgm64/gmplot)
 - Still in development
 
