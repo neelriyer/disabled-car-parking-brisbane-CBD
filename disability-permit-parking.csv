@@ -1,0 +1,18 @@
+ZONE ID,TYPE,OPERATING TIMES,LATITUDE,LONGITUDE,BAYS,PARKING_LIMIT,STREET
+0,Disability Permit Parking,5:30AM-4PM DAILY,-27.4682,153.020205,1,No Limit,Tank Street
+1,Disability Permit Parking,ALL TIMES,-27.4656,153.023031,1,3 Hour,Wickham Terrace
+2,Disability Permit Parking,ALL TIMES,-27.468,153.022225,3,4 Hour,Turbot Street
+3,Disability Permit Parking,ALL TIMES,-27.4646,153.025851,1,4 Hour,Wickham Terrace
+4,Disability Permit Parking,ALL TIMES,-27.4646,153.026389,1,2 Hour,Wickham Terrace
+5,Disability Permit Parking,ALL TIMES,-27.4667,153.027451,1,4 Hour,Adelaide Street
+6,Disability Permit Parking,"7PM-MIDNIGHT-4PM MON-FRI, ALL TIMES SAT-SUN",-27.47,153.028506,2,4 Hour,Edward Street
+7,Disability Permit Parking,ALL TIMES,-27.4693,153.029649,4,4 Hour,Market Street
+8,Disability Permit Parking,ALL TIMES,-27.4709,153.030565,1,4 Hour,Margaret Street
+9,Disability Permit Parking,ALL TIMES,-27.4725,153.028352,2,4 Hour,Margaret Street
+10,Disability Permit Parking,ALL TIMES,-27.4725,153.03084,3,2 Hour,Alice Street
+11,Disability Permit Parking,"12AM-7AM 9AM-4PM 7PM-12AM MON-FRI, ALL TIMES SAT-SUN",-27.4716,153.024626,1,3 Hour,Elizabeth Street
+12,Disability Permit Parking,ALL TIMES,-27.4781,153.027486,1,2 Hour,Gardens Point Road
+13,Disability Permit Parking,ALL TIMES,-27.4778,153.030224,3,No Limit,Gardens Point Road
+14,Disability Permit Parking,ALL TIMES,-27.4689,153.028058,1,3 Hour,Elizabeth Street
+16,Disability Permit Parking,ALL TIMES,-27.4704,153.030084,1,4 Hour,Felix Street
+17,Disability Permit Parking,"7PM-MIDNIGHT-4PM MON-FRI, ALL TIMES SAT-SUN",-27.4697,153.028175,2,2 Hour,Edward Street

@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Disability-permit-parking">
+  <name>Disability-permit-parking</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Disability-permit-parking</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>5:30AM-4PM DAILY</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4682</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.020205</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>No Limit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Tank Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.020205,-27.4682,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4656</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.023031</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>3 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Wickham Terrace</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.023031,-27.4656,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.468</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.022225</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>3</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Turbot Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.022225,-27.468,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4646</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.025851</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Wickham Terrace</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.025851,-27.4646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4646</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.026389</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>2 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Wickham Terrace</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.026389,-27.4646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4667</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.027451</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Adelaide Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.027451,-27.4667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>7PM-MIDNIGHT-4PM MON-FRI, ALL TIMES SAT-SUN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.47</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.028506</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>2</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Edward Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.028506,-27.47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4693</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.029649</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>4</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Market Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle04</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.029649,-27.4693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4709</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.030565</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Margaret Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.030565,-27.4709,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4725</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.028352</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>2</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Margaret Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.028352,-27.4725,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4725</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.03084</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>3</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>2 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Alice Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.03084,-27.4725,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>12AM-7AM 9AM-4PM 7PM-12AM MON-FRI, ALL TIMES SAT-SUN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4716</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.024626</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>3 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Elizabeth Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.024626,-27.4716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4781</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.027486</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>2 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Gardens Point Road</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.027486,-27.4781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4778</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.030224</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>3</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>No Limit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Gardens Point Road</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle03</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.030224,-27.4778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4689</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.028058</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>3 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Elizabeth Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.028058,-27.4689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>ALL TIMES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4704</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.030084</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>4 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Felix Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle01</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.030084,-27.4704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Disability Permit Parking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ZONE ID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>TYPE</td>
+<td>Disability Permit Parking</td>
+</tr>
+<tr>
+<td>OPERATING TIMES</td>
+<td>7PM-MIDNIGHT-4PM MON-FRI, ALL TIMES SAT-SUN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>-27.4697</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>153.028175</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BAYS</td>
+<td>2</td>
+</tr>
+<tr>
+<td>PARKING_LIMIT</td>
+<td>2 Hour</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>STREET</td>
+<td>Edward Street</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle02</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 153.028175,-27.4697,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle01">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/1.png</href></Icon>
+      <scale>1.125000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle02">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/2.png</href></Icon>
+      <scale>1.125000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle03">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/3.png</href></Icon>
+      <scale>1.125000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="IconStyle04">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/4.png</href></Icon>
+      <scale>1.125000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
